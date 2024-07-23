@@ -1,0 +1,4 @@
+df_ingestion:
+  root_dir: artifacts/data_ingestion
+  # source_url: https://kaggle.com/datasets/brandao/diabetes?resource=download
+  unzip_dir: artifacts/data_ingestion

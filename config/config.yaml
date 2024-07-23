@@ -1,0 +1,9 @@
+artifacts_roots: artifacts
+
+data_ingestion:
+  root_dir: artifacts/data_ingestion
+  source_url: https://github.com/okanina/Hospital_readmission/raw/main/diabetic_data.zip
+  local_data_file: artifacts/data_ingestion/diabetic_data.zip
+  unzip_dir: artifacts/data_ingestion
+
+  

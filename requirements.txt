@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+flask
+python.box==6.0.2
+ensure
+pyYAML
+pathlib
+-e .
